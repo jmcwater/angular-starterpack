@@ -5,5 +5,5 @@
 
 export const environment = {
   production: true,
-  serverUrl: 'https://opdracht-angular.herokuapp.com/api/v1'
+  serverUrl: 'https://opdracht-klas-mongo.herokuapp.com/api/v1'
 };
